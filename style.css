@@ -1,0 +1,61 @@
+.fon {
+    background: rgb(202, 202, 202)
+}
+
+.title {
+    text-align: center;
+    color: rgb(6, 23, 249);
+    font-family: Roboto, Arial, sans-serif;
+    font-size: 50px;
+}
+
+.title2 {
+    text-align: center;
+    color: rgb(2, 153, 17);
+    font-family: Roboto, Arial, sans-serif;
+    font-size: 24px;
+}
+
+.foto {
+    width: 960px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.foto1 {
+    width: auto;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+.foto2 {
+    width: 720px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+.content {
+    display: flex;
+
+
+}
+
+.text {
+    text-align: center;
+    font-family: "Roboto Slab", Arial, serif;
+    font-size: 16px;
+}
+
+.list {
+    display: table;
+    margin: 0 auto;
+}
